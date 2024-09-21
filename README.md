@@ -1,4 +1,3 @@
-Here’s an interactive and engaging version of your "About Me" section:
 
 ---
 
